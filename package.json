@@ -14,7 +14,8 @@
 		"onCommand:open-dir-as-window.execute"
 	],
 	"repository": {
-		"url": "git@github.com:robinduckett/open-dir-as-window-vscode.git"
+		"type": "git",
+		"url": "git+https://github.com/robinduckett/open-dir-as-window-vscode.git"
 	},
 	"main": "./dist/extension.js",
 	"contributes": {
