@@ -2,7 +2,7 @@
 	"name": "open-dir-as-window",
 	"displayName": "Open Folder As New Window",
 	"description": "Adds a context menu item to open a directory as a new editor window",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "robin-duckett",
   "icon": "logo.png",
 	"license": "MIT",
